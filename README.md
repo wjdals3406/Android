@@ -1,2 +1,1 @@
-# App
-using Android Studio
+# Android
